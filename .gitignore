@@ -1,0 +1,5 @@
+vendor
+.air.toml
+.idea
+tmp
+.env
